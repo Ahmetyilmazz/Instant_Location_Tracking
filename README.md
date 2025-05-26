@@ -15,9 +15,9 @@ Uygulamaya ait ekran görüntüleri:
 
 <div align="center">
   <img src="https://github.com/Ahmetyilmazz/Instant_Location_Tracking/blob/50fd2ccac88593cbf607074ad9151c10d3ce5cf4/Screenshot_1.png" width="300"/>
-  <img src="https://github.com/Ahmetyilmazz/Instant_Location_Tracking/blob/50fd2ccac88593cbf607074ad9151c10d3ce5cf4/Screenshot_2.png" width="300"/>
-  <img src="https://github.com/Ahmetyilmazz/Instant_Location_Tracking/blob/50fd2ccac88593cbf607074ad9151c10d3ce5cf4/Screenshot_3.png" width="300"/>
-  <img src="https://github.com/Ahmetyilmazz/Instant_Location_Tracking/blob/50fd2ccac88593cbf607074ad9151c10d3ce5cf4/Screenshot_4.png" width="300"/>
+  <img src="https://github.com/Ahmetyilmazz/Instant_Location_Tracking/blob/50fd2ccac88593cbf607074ad9151c10d3ce5cf4/Screenshot_2.PNG" width="300"/>
+  <img src="https://github.com/Ahmetyilmazz/Instant_Location_Tracking/blob/50fd2ccac88593cbf607074ad9151c10d3ce5cf4/Screenshot_3.PNG" width="300"/>
+  <img src="https://github.com/Ahmetyilmazz/Instant_Location_Tracking/blob/50fd2ccac88593cbf607074ad9151c10d3ce5cf4/Screenshot_4.PNG" width="300"/>
   <img src="https://github.com/Ahmetyilmazz/Instant_Location_Tracking/blob/50fd2ccac88593cbf607074ad9151c10d3ce5cf4/Screenshot_5.png" width="300"/>
   <img src="https://github.com/Ahmetyilmazz/Instant_Location_Tracking/blob/50fd2ccac88593cbf607074ad9151c10d3ce5cf4/Screenshot_6.png" width="300"/>
   
